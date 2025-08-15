@@ -8,7 +8,7 @@ interface LoginPageProps {
 
 // In a real application, this user list would come from your backend database.
 const MOCK_USERS = [
-    { email: "admin@gmail.com", password: "admin" },
+    { email: "esgan23@gmail.com", password: "Eshan2544" },
     { email: "john.doe@example.com", password: "password123" },
     { email: "test.user@example.com", password: "test" },
     { email: "dev.user@example.com", password: "dev" },
