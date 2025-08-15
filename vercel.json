@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/admin",
+      "destination": "https://admin-e-mailer-2-0.vercel.app/"
+    },
+    {
+      "source": "/admin/:path*",
+      "destination": "https://admin-e-mailer-2-0.vercel.app/:path*"
+    }
+  ]
+}

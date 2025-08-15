@@ -1,0 +1,5 @@
+{
+  "name": "E_mailer - Bulk Email Sender",
+  "description": "A powerful bulk email sending application that leverages Google's Gmail API. It allows for dynamic content using tags, supports HTML-based attachments as images or PDFs, and provides a clean interface for managing recipients and composing emails.",
+  "requestFramePermissions": []
+}
